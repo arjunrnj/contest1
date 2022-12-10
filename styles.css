@@ -1,0 +1,47 @@
+div {
+   /* Rectangle 1 */
+
+position: absolute;
+width: 1728px;
+height: 1117px;
+left: 0px;
+top: 0px;
+background: #000000;
+color: white;
+}
+
+.fname {
+    font-family: Inter;
+font-size: 24px;
+font-weight: 300;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+height: 29px;
+width: 112px;
+left: 202px;
+top: 278px;
+border-radius: nullpx;
+
+
+}
+.password {
+    /* Password */
+
+position: absolute;
+width: 109px;
+height: 29px;
+left: 202px;
+top: 426px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+}
